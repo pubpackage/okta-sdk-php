@@ -17,8 +17,8 @@
 
 namespace Okta\Resource;
 
-use Tightenco\Collect\Support\Collection;
-use Tightenco\Collect\Support\Arr;
+use Illuminate\Support\Arr;
+use Illuminate\Support\Collection;
 
 class AbstractCollection extends Collection
 {
